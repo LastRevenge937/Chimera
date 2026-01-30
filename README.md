@@ -10,6 +10,7 @@ Everything in Chimera is simulated:
 * fake traffic
 * fake attacks
 * fake defenses
+
 Nothing touches the real world. Nothing scans, attacks, or exploits real systems.
 
 # What Chimera Is
