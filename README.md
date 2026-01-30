@@ -1,5 +1,7 @@
 # Chimera
 
+**QUICK WARNING, you will see Химера in the code, Химера means Chimera in Russian**
+
 Chimera is an educational simulation library for learning cybersecurity, networking, and system security through fake environments with purposeful vulnerabilities.
 Everything in Chimera is simulated:
 * fake networks
